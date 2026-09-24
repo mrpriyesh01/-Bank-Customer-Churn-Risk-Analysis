@@ -187,5 +187,5 @@ Business Insights
 
 ## 👤 Author
 
-**Himanshu Singh**  
+**Priyesh Singh**  
 Aspiring Data Analyst | Python | SQL | Power BI
